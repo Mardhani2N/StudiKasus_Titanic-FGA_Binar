@@ -35,8 +35,8 @@ penumpang. Tugas kamu adalah memprediksi output tersebut
 menggunakan model Klasifikasi </p>
 
 Dari kasus tersebut, coba lakukan hal berikut ini:
-1. Download data train dan data test
-data train : https://www.kaggle.com/competitions/titanic/data?select=train.csv
+1. Download data train dan data test <br>
+data train : https://www.kaggle.com/competitions/titanic/data?select=train.csv <br>
 data test https://www.kaggle.com/competitions/titanic/data?select=test.csv
 2. Buat notebook baru di Google Colab lalu beri judul Studi
 Kasus Titanic
